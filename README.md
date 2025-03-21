@@ -17,7 +17,9 @@ Hey there! I'm **@ZuckPlus**, a passionate developer with a deep interest in **S
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)    
 
 ### **🌍 Web Frameworks:**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  

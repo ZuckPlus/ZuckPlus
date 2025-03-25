@@ -1,6 +1,6 @@
 # 👾 ZuckPlus | Software Developer | DevOps Enthusiast | Security Researcher  
 
-![Profile Banner]([https://media.discordapp.net/attachments/1172273566880911501/1346842449116528751/discord-banner.png?ex=67de1786&is=67dcc606&hm=7a11a956ceb9ab90ff47d33f2628770d51621ca6746061155de06378b24a0c66&=&format=webp&quality=lossless&width=1273&height=716](https://media.discordapp.net/attachments/1340249663252463656/1353855450528874576/image.png?ex=67e32ba4&is=67e1da24&hm=f1be6237bb018969eb7a8b6de8b9a10851a5ffa38092bb37d9e97cba51e15e81&=&format=webp&quality=lossless&width=350&height=350))  
+![Profile Banner](https://media.discordapp.net/attachments/1340249663252463656/1353855450528874576/image.png?ex=67e32ba4&is=67e1da24&hm=f1be6237bb018969eb7a8b6de8b9a10851a5ffa38092bb37d9e97cba51e15e81&=&format=webp&quality=lossless&width=350&height=350)  
 
 ## 🚀 About Me  
 Hey there! I'm **@ZuckPlus**, a passionate developer with a deep interest in **Software Development, DevOps, and Game Hacking**. I love building, breaking, and optimizing systems to push technology to its limits.  
